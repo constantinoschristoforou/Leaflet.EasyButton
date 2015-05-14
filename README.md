@@ -15,4 +15,8 @@ Changes from the original:
 
   * added features
 
+## hey
+
+if you use html for your icon, L.easyButton won't try to overwrite it;
+`id` will be ignored. `title` will still work
 [Demo]:http://cliffcloud.github.io/Leaflet.EasyButton/
